@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entities>
+
+    <entity>
+        <name>Khaosz</name>
+        <backstory>Az ősi sötét tátongó űr megtestesítő istensége, ős rendezetlenség a görög mitológiában. Ő volt a legelső teremtmény, nem volt benne rendszer.</backstory>
+        <difficulty>HARD</difficulty>
+        <hint>Gyermekei: Gaia, Erósz, Tartarosz, Erebosz, Nüx, Uranosz</hint>
+    </entity>
+
+    //Chaos's children
+
+    <entity>
+        <name>Erósz</name>
+        <backstory>A szerelem istene a görög mitológiában. Rómában ugyanezt az istent Amor vagy Cupido néven tisztelték. Az ókorban egyaránt ábrázolták fiatal férfiként és kisfiúként anyja társaságában.</backstory>
+        <difficulty>MEDIUM</difficulty>
+        <hint>Gyermekei: Voluptas, Hédoné</hint>
+    </entity>
+    <entity>
+        <name>Gaia</name>
+        <backstory>A Föld istennője a görög mitológiában. Rómában Tellus, illetve Terra néven tisztelték. Ő testesítette meg a földet, ő volt a Földanya.</backstory>
+        <difficulty>EASY</difficulty>
+        <hint>Gyermekei: Hüperion, Kronosz, Uranosz, Phoibé, Lapetosz, Ókeánosz, Tüphón, Ekhidna, Kharübdisz stb.</hint>
+    </entity>
+    <entity>
+        <name>Tartarosz</name>
+        <backstory>A halál utáni életben az örökös kín, a szenvedés és a bűnhődés helye – a kereszténységben a pokol, a pogány vallásokban az alvilág, a hinduizmusban Naraka, a judaizmusban a gyehenna, az iszlámban a Jahannam, a kínai buddhizmusban Di Yu megfelelője.</backstory>
+        <difficulty>MEDIUM</difficulty>
+        <hint>Gyermekei: Tüphón, Telekhinek, Colophómvs, Corydon, Ekhidna, Effra, Emphytus, Enceladus</hint>
+    </entity>
+    <entity>
+        <name>Nüx</name>
+        <backstory>A görög mitológiában az éjszaka istennője volt, aki a nap végén sötét szárnyaival beborítja a világot. A sötétség istenasszonyaként egyike az ősprincípiumoknak. Az ókori görögök az első istennőként ismerték és tisztelték.</backstory>
+        <difficulty>MEDIUM</difficulty>
+        <hint>Gyermekei: Nemeszisz, Kharón, Hüpnosz, Thanatosz, Morpheusz, Moirák, Heszperiszek, Atroposz, Klothó, Lakheszisz stb.</hint>
+    </entity>
+    <entity>
+        <name>Erebosz</name>
+        <backstory>A görög mitológiában az ősi sötétség, Khaosz gyermeke, aki szintén az ősi sötétség megtestesítője volt. A legendák szerint együtt született Nüxszel, az éjszakával.</backstory>
+        <difficulty>HARD</difficulty>
+        <hint>Gyerekei: Nemeszisz, Kharón, Hémera, Erisz, Hüpnosz, Thanatosz, Aithér, Heszperiszek, Kérek, Erósz</hint>
+    </entity>
+    <entity>
+        <name>Uranosz</name>
+        <backstory> A görög mitológiában az istenek első nemzedékéhez tartozik, az ég istene. A római mitológiában Caelum a megfelelője. félt attól, hogy gyermekei a hatalmára törnek, bezárta őket a föld mélyébe, a Tartaroszba. De Gaia fellázította a gyermekeket és a legfiatalabb titán, Kronosz, aki még szabad volt, a Gaiától kapott gyémántsarlóval kasztrálta apját.</backstory>
+        <difficulty>EASY</difficulty>
+        <hint>Gyermekei: Aphrodité, titánok, küklopszok, meliák, fúriák, gigászok, hekatonkheirek</hint>
+    </entity>
+
+    //Gaia's children
+
+    <entity>
+        <name>Hüperión</name>
+        <backstory>Titán a görög mitológiában. Gaia és Uranosz gyermeke. Sokáig ő hordozta a Napot. Feleségül saját testvérét, Theiát választotta.</backstory>
+        <difficulty>HARD</difficulty>
+        <hint>Gyermekei: Héliosz, Éósz, Szeléné</hint>
+    </entity>
+    <entity>
+        <name>Kronosz</name>
+        <backstory>Uranosz és Gaia gyermeke, a tizenkét titán legfiatalabbja, az idő titánja. Az olümposzi istenek egyik atyja. Kasztrálta apját Uranoszt, az anyja méhéből származó sarlóval, ezzel megszerezve a titánok trónját.</backstory>
+        <difficulty>EASY</difficulty>
+        <hint>Gyermekei: 6 fő olimposzi isten, Kheirón, Dolopsz, Erinnüszök, Moirák, Kriosz</hint>
+    </entity>
+    <entity>
+        <name>Phoibé</name>
+        <backstory>a görög mitológiában egyike a legelső titaniszoknak. Nevének jelentése: fényes, sugárzó, látnoki. Uranosz és Gaia leánya. Hagyományosan kapcsolatban áll a holddal. Férje Koiosz aki, egyben a testvére is volt.</backstory>
+        <difficulty>HARD</difficulty>
+        <hint>Gyermekei: Asteria, Latona, Lelantos, Létó</hint>
+    </entity>
+    <entity>
+        <name>Lapetosz</name>
+        <backstory>mitológiában Gaia és Uranosz fia, titán. Felesége Klümené Ókeanisz. a titanomakhia résztvevője, Zeusz a Tartaroszba taszította, ahol osztozott titánfivérei sorsában. Az istenek atyja Iapetoszt a Hekatonkheirek őrizete alatt tartotta fogva, de később hatalma megszilárdítása után szabadon engedte.A közel-keleti kozmogenezisekben megjelenő, az eget és földet elválasztó négy világpillér egyike. Ő a nyugati pillér. Szerepét később fia veszi át.</backstory>
+        <difficulty>HARD</difficulty>
+        <hint>Gyermekei: Atlasz, Epimltheusz, Prométheusz, Menoitiosz, Hesperus, Ankhialé</hint>
+    </entity>
+    <entity>
+        <name>Ókeánosz</name>
+        <backstory>a világóceán, amelyről a görögök és a rómaiak úgy tartották, hogy a világon körbefolyó hatalmas folyó. A titánok egyike, Uranosz és Gaia gyermeke. Hellenisztikus és római kori mozaikokon gyakran ábrázolták férfitorzóként: izmos felsőtesttel, hosszú szakállal és szarvakkal, derék alatt kígyótesttel. A régi görög tudósok hite szerint ő testesítette meg a világtengereket (vagyis az akkori ismeretek szerint a Földközi-tengert és az Atlanti-óceánt), de ahogy a földrajztudomány fejlődött, úgy lett egyre határozottabban az ismeretlenebb Atlanti-óceán megtestesítője, míg a Földközi-tenger világában Poszeidón uralkodott. Saját nővérével, Téthüsszel lépett házasságra.</backstory>
+        <difficulty>MEDIUM</difficulty>
+        <hint>Gyermekei: Tükhé, Nemeszisz, Kalüpszó, Plútó, Dióné, Ókeaniszok, tengeri nimfák, Métisz stb.</hint>
+    </entity>
+    <entity>
+        <name>Tüphón</name>
+        <backstory>a görög mitológiában Gaia-Földanya és Tartarosz szörny ivadéka. Egy másik változat szerint Héra szülte – megütötte a földet, s így lett viselős – bosszúból, hogy Zeusz nélküle hozta világra Pallasz Athénét, ő is önállóan akart utódra szert tenni. Héra dajkaságba adta Püthónhoz, akit később Apollón ölt meg. Vad, khtonikus, teratomorfikus: száz kígyófeje van, törzse ember formájú, ágyékától lefelé tekergő kígyókból áll. Egész testét szárnyak borítják, arcán és fején mocskos szőrzet lengedez. Mindegyik torkából vad hangok törnek elő: bikabömbölés, oroszlánüvöltés, kutyaugatás. A világ ura lett volna, ha Zeusz harcba nem bocsátkozik vele: villámaival felperzselte, mennyköveivel megsebezte, végül Tartaroszba hajította. Egy másik mítoszváltozat szerint rettentő küzdelemben gyűrte le: kígyóival körülfonta Zeuszt, kezéből-lábából kivágta az inakat, majd a kilikiai Kórükosz-barlangba hurcolta, s a Delphüné nevű nőstény sárkány őrizetére bízta. Ám Hermész és Pán kilopták a barlangból az odarejtett inakat és visszahelyezték Zeusz testébe, aki újra ereje birtokába került, s folytatta üldözését. A Moirák rászedték: megkínálták gyorsan fonnyadó gyümölccsel (a „halálalma” nevű mérges növénnyel), mondván, hogy ettől még erősebb lesz. Zeusz ráborította az Etna hegyet, amelyből tüzes lávafolyamot okád. Ekhidnával való egyesüléséből számos szörnyeteg született</backstory>
+        <difficulty>MEDIUM</difficulty>
+        <hint>Gyermekei: Szphinx, Orthosz, Kerberosz, lernéi Hüdra, Khimaira, Ethon, Ladón, Nemeai oroszlán, Szkülla, Colchian Dragon</hint>
+    </entity>
+    <entity>
+        <name>Ekhidna</name>
+        <backstory>Minden szörnyek ősanyja a görög mitológiában az ókori világ legvisszataszítóbb teremtése. Kétó leánya és Tüphón felesége volt, akitől több gyermeke is született. Arca szépséges nimfáé volt, de teste kígyóé, és így nyelve is sziszegő kígyó-nyelvként nyúlt ki szájából. Neve viperát jelent. Zeusz megkímélte eés szörny gyermekei életét, hogy a jövő hőseinek is akadjon munkája.</backstory>
+        <difficulty>MEDIUM</difficulty>
+        <hint>Gyermekei: nemeai oroszlán, Kerberosz, Ladón, Khimaira, Szphinx, Hüdra, Orthosz, a Prométheusz máját marcangoló keselyű, az erümanthoszi vadkan, illetve Phaia, a krommüóni vademse.</hint>
+    </entity>
+    <entity>
+        <name>Kharübdisz</name>
+        <backstory>A görög mitológia egyik tengeri nimfája, Poszeidón és Gaia lánya. Egy tengerszoros egyik oldalán élt, szemben egy sziklaüreggel, amelyben pedig Szkülla tanyázott. A nimfát azonban szörnnyé változtatta Zeusz, mert Gérüón marhacsordájából ellopott és megevett egy állatot, holott azokat Héraklésznek sértetlenül kellett volna leszállítani. Azóta napi háromszor beszívja, majd kizúdítja a vizet, ezzel halálos veszélybe sodorva a tengerészeket. Ha a hajósok el akarták kerülni az egyik szörnyet, kénytelenek voltak a másikhoz közelebb hajózni. A „Szkülla és __________ között” kifejezés is innen ered. Hagyományosan a két szörnyet a Messinai-szoros környékére helyezik, Olaszország és Szicília szigete közé. Egy alternatív változat szerint a hely inkább északnyugat-Görögországban lehetett, a Scilla-foknál, az Amvrakiai-öböl bejáratánál. Útja során Odüsszeusznak sikerült ugyan elkerülnie, de Szkülla elragadta hat tengerészét, mikor hajójával átkelt a szoroson. Az argonauták történetében a naiaszok egyike.</backstory>
+        <difficulty>MEDIUM</difficulty>
+        <hint>Gyermekei: nincsenek</hint>
+    </entity>
+
+    //Nüx's children
+
+    <entity>
+        <name>Telekhinek</name>
+        <backstory>démonok a görög mitológiában, Pontusz (a tenger) és Gaia (a föld) fiai, más változat szerint Pontusz és Thalassza gyermekei, név szerint Aktaiosz, Argüron, Atabüriusz, Khalkon, Khrüszon, Damnameneusz, Démon (tőle származik a démon neve), Hormeniusz, Lükosz, Megalesziusz, Mülasz, Nikon, Simon és Szkelmisz. Embertestű és kutyafejű hártyás lábú vízi szörnyek voltak. Ők kovácsolták a titánok fegyverei</backstory>
+        <difficulty>HARD</difficulty>
+        <hint>Gyermekei: nincsenek</hint>
+    </entity>
+    <entity>
+        <name>Nemeszisz</name>
+        <backstory>a megtorlás istennője a görög mitológiában. Legfőképpen a hübriszt, vagyis a gőgös elbizakodottságot büntette.Egyes mítoszok szerint Zeusz üldözte szerelmével, ami ellen Nemeszisz úgy védekezett, hogy különböző lényekké változott át. Amikor éppen liba alakját öltötte, Zeusz utolérte, hattyú képében egyesült vele. Nemesziszt Ókeanosz vagy Zeusz gyermekének is nevezik, de Hésziodosz szerint Erebosz és Nüx a szülei.</backstory>
+        <difficulty>EASY</difficulty>
+        <hint>Gyermekei: Helené, Klütaimnésztra, Kasztór, Polüdeikész, telekhinek</hint>
+    </entity>
+    <entity>
+        <name>Kharón</name>
+        <backstory>Görög mitológiai alak. Erebosz és Nüx gyermeke, az Alvilág révésze. A holt lelkeket ő szállította át ladikjában a Sztüx folyón (más változat szerint az Akherón folyón).[1] Azonban Kharón mindig is mogorva, sovány démon volt, aki nem szállított át olyan holt lelket, akit nem temettek el tisztességesen. A révészkedésnek árat is szabott, és aki nem tudott neki fizetni, azt százéves bolyongásra ítélte a Sztüx túlsó partján. A fizetségnek obolosz volt a neve, ami egy érme volt. Ezt a görögök halottjaik nyelve alá helyezték (más források szerint szemeikre), majd így a megfelelő rítusok után elégették a testet. Az Alvilág folyóján azonban nem mindenki fizetett az átkelésért. A halandóknak ugyanis megvolt az erejük ahhoz, hogy Kharónt rábírják egy fuvarra, így jutott át a Sztüxön Héraklész, Thészeusz és Peirithoosz is.</backstory>
+        <difficulty>EASY</difficulty>
+        <hint>Gyermekei: nincsenek</hint>
+    </entity>
+    <entity>
+        <name>Hüpnosz</name>
+        <backstory>az Álom és Thanatosz, a Halál a görög mitológiában ikertestvérek, az Éj istennőjének fiai. Alvilági palotájuk a sötétség barlangja, ahová soha egyetlen fénysugár sem téved. Az alvás megszemélyesítője a római mitológiában Somnusként jelenik meg. az alvással járó álomképek apja.</backstory>
+        <difficulty>MEDIUM</difficulty>
+        <hint>Gyermekei: Morpheusz, Oneirosz, Phantaszosz, Phobetor</hint>
+    </entity>
+    <entity>
+        <name>Thanatosz</name>
+        <backstory>Halál megtestesítője a görög mitológiában. Nüx, az Éj istennőjének apa nélkül született fia és Hüpnosz, az Álom istenének ikertestvére;[1] közös tartaroszi palotájuk a sötétség otthona. Felesége Meropé, aki vagy Héliosz, vagy Oinopión leánya. feladata az volt, hogy a Moirák által meghatározott időben jelenjen meg a halandónál, kardjával vágjon le egy tincset a hajából, majd ragadja meg lelkét és adja át Hermésznek, aki a holtat az Alvilágba kíséri. A római mitológiában Mors istennel azonosítható.</backstory>
+        <difficulty>MEDIUM</difficulty>
+        <hint>Gyermekei: Gaia, Erósz, Tartarosz, Erebosz, Nüx, Uranosz</hint>
+    </entity>
+    <entity>
+        <name>Morpheusz</name>
+        <backstory>A görög és római mitológia egyik alakja, Hüpnosz és Paszithea fia, az oneiroi egyike, Ikelosz, Phobetor és Phantaszosz testvére, az álmok és az alvás istene. Akkor jelent meg a halandóknál, mikor atyja, az alvás istene már hatalmába kerítette őket. Az álmokban emberi alakot öltött, általában az álmodó szeretteinek képében jelent meg.</backstory>
+        <difficulty>MEDIUM</difficulty>
+        <hint>Gyermekei: Gaia, Erósz, Tartarosz, Erebosz, Nüx, Uranosz</hint>
+    </entity>
+    <entity>
+        <name>Moirák</name>
+        <backstory>A moirák a végzet irányítói, az emberi élet fonalát szövő, gombolyító illetve elvágó három istennő a görög mitológiában. A mondaköltészet eltérően hol Zeusz, hol Nüx (az éjszaka) lányainak mondja őket. Ez utóbbi felfogás egyenes az istenek fölé rendeli a sors urait. Nevük a hagyomány szerint a következő: Klóthó (Fonó), Lakheszisz (Sorsjuttató), Atroposz (Kérlelhetetlen). E nevekből csak a modern képzelet alkotta meg a képet, hogy Klóthó fonja, Lakheszisz eregeti és Atroposz elvágja az élet fonalát; az antik ábrázolásokban csak az első fon, a másik kettő sorstáblát vagy mérleget tart a kezében. A moirák római megfelelői a párkák.</backstory>
+        <difficulty>EASY</difficulty>
+        <hint>Gyermekei: nincsenek</hint>
+    </entity>
+    <entity>
+        <name>Heszperiszek</name>
+        <backstory>A görög mitológiában nimfák, a boldogság kertjének őrzői és gondozói. Kertjük a világ nyugati sarkában volt, egyesek szerint Árkádia hegyei között Görögországban, mások szerint Líbiában az Atlasz-hegység közelében, vagy egy távoli szigeten az óceán peremén.</backstory>
+        <difficulty>HARD</difficulty>
+        <hint>Gyermekei: nincsenek</hint>
+    </entity>
+    <entity>
+        <name>Atroposz</name>
+        <backstory>A görög mitológiában Zeusz és Ananké istennő leánya, Klóthó és Lakheszisz testvére. Más források szerint a főisten Themisszel, a rend istennőjével nemzette a három sorsistenséget. Ők hárman voltak a Moirák, a sors istennői, a sors fonalának felügyelői és nem annak meghatározói. A sors vezetésébe nem engedtek senkinek sem beleszólást, és néhol még magát Zeuszt is megszorították. Atroposz mellékneve lett a hajthatatlan és az elkerülhetetlen, hiszen ő vágta el gyűlölt ollójával az élet fonalát. Leggyakrabban tehát őt környékezték meg az istenek, hogy egyes halandókat az életbe visszahozzanak, de ő nem engedett senkinek sem.</backstory>
+        <difficulty>MEDIUM</difficulty>
+        <hint>Gyermekei: nincsenek</hint>
+    </entity>
+    <entity>
+        <name>Klothó</name>
+        <backstory>A görög mitológiában Zeusz és Ananké (más források szerint a főisten és a rend istennőjének, Themisznek) leánya, a Moirák, vagy latin nevükön a Párkák egyike. Két nővére volt: Atroposz és Lakheszisz. Ők hárman alakították a sors fonalát. A legfelsőbb törvények szerint sohasem volt szabad beleszólniuk a sors folyásába, egyszerűen csak gondozni kellett annak fonalát. Úgy tartották hatalmuk gyakran még az istenekét is meghaladta, hiszen az ő sorsuk is az ő kezükben formálódott. Neve Fonót jelent, ami arra utal, hogy ő fonta meg a halandók életének fonalát. Testvéreivel együtt sodorták az istenek és emberek sorsát, és az élet fonalát kérlelhetetlenül elvágták, ha eljött az idő. A Moirák közül ő volt a legidősebb, és maguk az olümposziak között is a legidősebb istennő volt. Ha jellemezni akarták, akkor egy rokkát vagy az éjszaka homályát emlegették. Az istenek és maga Zeusz sem parancsolhatott a Moiráknak, vagyis a sorsnak.</backstory>
+        <difficulty>MEDIUM</difficulty>
+        <hint>Gyermekei: nincsenek</hint>
+    </entity>
+    <entity>
+        <name>Lakheszisz</name>
+        <backstory>A görög mitológiában Zeusz és Ananké (más források szerint a rend istennőjének, Themisznek) a leánya. A három sorsistennő, a Moirák egyike. Atroposz és Klóthó nevű nővéreivel hárman sodorták az élet és a sors fonalát. Az ókoriak gyakran úgy emlegették őket, mint akiknek nagyobb hatalmuk van az istenekétől is, hiszen az ő sorsuk is a három sorsistennő keze között fonódott. Neve azt jelenti, Osztó, tehát ő mérte ki, kinek milyen hosszú életet szán. Amennyiben úgy döntött, egy személynek halhatatlanságot ad, szólt nővéreinek, és Klóthó állandóan fonta, Atroposz pedig soha nem metszette el a sorsa fonalát.</backstory>
+        <difficulty>MEDIUM</difficulty>
+        <hint>Gyermekei: nincsenek</hint>
+    </entity>
+
+    //Erebosz's children
+
+    <entity>
+        <name>Hémera</name>
+        <backstory>A görög mitológia egyik istensége. Hésziodosz szerint Nüx és Erebosz, az éj és a homály gyermeke. A nap vagy a nappal megszemélyesítője Aithér mellett. Tőle származtatják egyesek Uranoszt. Testvérei: Tantalosz, Aithér, a kérek, Nemeszisz és Kharón.</backstory>
+        <difficulty>HARD</difficulty>
+        <hint>Gyermekei: Thalassa, Aura</hint>
+    </entity>
+    <entity>
+        <name>Erisz</name>
+        <backstory>A viszály és veszekedés gonosz istennője a görög mitológiában. Nüx istennő apa nélkül született leánya. Folyton áskálódott, és legszívesebben viszályt keltett emberek és istenek között. Arész egyik legjobb barátja és kísérője volt, aki a hadisten kérésére szinte bárhol háborúig tudta fokozni a haragot és viszálykodást. Megjelenése baljóslatú és aljas volt. A viszály magvát mindig egy aranyalmával vetette el, amely oly fényes volt, mint Héliosz szekerét húzó lovak sörénye. Ha barátok közé gurította be aranyalmáját, akkor bármilyen jó barátságnak azonnal véget vetett. Ha pedig ellenségek közé tette le, akkor ott elkerülhetetlen volt a vérontás, a háború. Az ő aranyalmája indította el a trójai háború kibontakozását is: azzal a felirattal gurította be az Olümposzra, hogy „a legszebbnek”. Ezen az olümposzi istennők összevesztek, és a viszály még a földre is legyűrűzött. Mindez azután történt, hogy nem hívták meg Péleusz és Thétisz esküvőjére. Azonban nem mindig gonosz szándék vezérelte, ugyanis ő támasztotta az egészséges versengést is a gazdaságban. Római megfelelője Discordia.</backstory>
+        <difficulty>HARD</difficulty>
+        <hint>Gyermekei: Gaia, Erósz, Tartarosz, Erebosz, Nüx, Uranosz</hint>
+    </entity>
+    <entity>
+        <name>Aithér</name>
+        <backstory>A ragyogó örök világosság és a levegőég istene, Erebosz és Nüx fia, Hémera bátyja. Az első görög istenek közül való, a „felső ég” megszemélyesítője, az űr és a menny megtestesítője. Neve a ógörög αἰθήρ szóból származik, melynek jelentése: éter. Ő volt a tiszta, „felső levegőég”, az istenek levegője, szemben „aer”-ral, a komor alsó levegővel a Földön, amelyet az emberek lélegeztek be.</backstory>
+        <difficulty>HARD</difficulty>
+        <hint>Gyermekei: Gaia, Erósz, Tartarosz, Erebosz, Nüx, Uranosz</hint>
+    </entity>
+    <entity>
+        <name>Kérek</name>
+        <backstory>a görög mitológia halálistennői. Nüx istennő apa nélkül, önmagától született lányai; az élet és a halál titkait megszemélyesítő sötét erők isteneinek testvérei. Bátyjuk Thanatosz, a békés elmúlás, a természetes halál istene, az erőszakos, hirtelen végzet és a betegségből eredő fájdalmas halál megtestesítői.</backstory>
+        <difficulty>HARD</difficulty>
+        <hint>Gyermekei: nincsenek</hint>
+    </entity>
+
+    //Uranos's children
+
+    <entity>
+        <name>Aphrodité</name>
+        <backstory>Ógörögül Ἀφροδίτη „a habokból kiemelkedő”) a szerelem és a szépség istennője a görög mitológiában. A római mitológiában a késői köztársaság korában Venusszal azonosították, de a hasonlóságuk csak felszínes. Az etruszk mitológiában Turan a hozzá hasonló. Maguk a görögök inkább az óegyiptomi Hathor istennőhöz hasonlították. Amikor Kronosz kasztrálta apját, a tengerbe lepottyanó nemiszerve habot okozott, ami kimosta _____-t a partra.</backstory>
+        <difficulty>EASY</difficulty>
+        <hint>Gyermekei: Anterósz, Deimosz, Erósz, Phobosz, Harmonia, Himeros, Hermaphroditosz, Hümenaiosz, Priaposz, Tükhé</hint>
+    </entity>
+    <entity>
+        <name>Titánok</name>
+        <backstory>A görög mitológiában Gaia és Uranosz első tizenkét gyermeke, az istenek második nemzedéke. A hat fiútestvér, azaz a titánok, név szerint Ókeanosz, Koiosz, Hüperión, Kriosz, Iapetosz és Kronosz, illetve a hat lánytestvér, azaz Téthüsz, Phoibé, Theia, Rhea, Themisz, Mnémoszüné és egyes források megemlítenek egy hetediket, Diónét, Theia ikertestvérét. A titánok és titaniszok kezdetben az őserő megtestesítői, később találmányaik által az emberiség jótevői. Fiatalabb testvéreik a küklópszok és a hekatonkheirek. </backstory>
+        <difficulty>EASY</difficulty>
+        <hint>Gyermekei: istenek stb.</hint>
+    </entity>
+    <entity>
+        <name>Küklopszok</name>
+        <backstory>Egyszemű óriások a görög mitológiában.</backstory>
+        <difficulty>EASY</difficulty>
+        <hint>Gyermekei: nincsenek</hint>
+    </entity>
+    <entity>
+        <name>Meliák</name>
+        <backstory>a kőrisfák nimfái voltak a görög mitológiában. Hésziodosz Theogónia című műve alapján, Uranosz földre hulló vércseppjeiből születtek. Ugyanezen vércseppekből keletkeztek, ami azt sugalmazza, hogy a kőrisfák nimfái a kellem álruhájába bújt „Végzet” megtestesítői. A hellén Bronzkor irodalmi alkotásai alapján belőlük ered az emberi faj</backstory>
+        <difficulty>HARD</difficulty>
+        <hint>Gyermekei: nincsenek</hint>
+    </entity>
+    <entity>
+        <name>Erinnüszök</name>
+        <backstory>a bosszúállás véres istennői a görög mitológiában. A legenda szerint amikor Kronosz megfosztotta apját, Uranoszt férfiasságától, az ég vére a földre hullott, és így az apagyilkosság véréből születtek meg. A három nőnek kígyók voltak hajuk helyén, kutyafejük, denevérszárnyuk volt és fekete testük. Az alvilágban lakó Aléktó, Tisziphoné és Megaira</backstory>
+        <difficulty>MEDIUM</difficulty>
+        <hint>Gyermekei: Gaia, Erósz, Tartarosz, Erebosz, Nüx, Uranosz</hint>
+    </entity>
+    <entity>
+        <name>Khaosz</name>
+        <backstory>Az ősi sötét tátongó űr megtestesítő istensége, ős rendezetlenség a görög mitológiában. Ő volt a legelső teremtmény, nem volt benne rendszer.</backstory>
+        <difficulty>HARD</difficulty>
+        <hint>Gyermekei: Gaia, Erósz, Tartarosz, Erebosz, Nüx, Uranosz</hint>
+    </entity>
+    <entity>
+        <name>Khaosz</name>
+        <backstory>Az ősi sötét tátongó űr megtestesítő istensége, ős rendezetlenség a görög mitológiában. Ő volt a legelső teremtmény, nem volt benne rendszer.</backstory>
+        <difficulty>HARD</difficulty>
+        <hint>Gyermekei: Gaia, Erósz, Tartarosz, Erebosz, Nüx, Uranosz</hint>
+    </entity>
+    <entity>
+        <name>Khaosz</name>
+        <backstory>Az ősi sötét tátongó űr megtestesítő istensége, ős rendezetlenség a görög mitológiában. Ő volt a legelső teremtmény, nem volt benne rendszer.</backstory>
+        <difficulty>HARD</difficulty>
+        <hint>Gyermekei: Gaia, Erósz, Tartarosz, Erebosz, Nüx, Uranosz</hint>
+    </entity>
+
+
+</entities>
